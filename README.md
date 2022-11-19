@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sgttikila
 - 👀 I’m interested in: programming
 - 🌱 I’m currently learning: java
-- 💞️ I’m looking to collaborate: on nothing 
+- 💞️ I’m looking to collaborate on: nothing 
 - 📫 How to reach me:i don't care to all you
 
 <!---
